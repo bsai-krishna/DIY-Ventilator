@@ -1,4 +1,4 @@
-# Project-DIY-Ventilator- ![icon](https://img.icons8.com/color/48/000000/patient-oxygen-mask.png "icon")
+# Project-DIY-Ventilator  ![icon](https://img.icons8.com/color/48/000000/patient-oxygen-mask.png "icon")
 
 An Open-source ventilator which can be reproduced with easily available components.This ventilator can supply uninterrupted mechanical ventilation for patients.This device is compatible with Ambu bag / self inflating bag
 
@@ -28,7 +28,7 @@ This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** 
  
  ### Things to do
  - [x] Create the working simulation
- - [ ] Start on prototype development 
+ - [x] Start on prototype development 
  - [ ] Progamming
  
  ### Resources 
